@@ -25,3 +25,15 @@ machine learning models can work reliably in production.
 - **Snowflake** – scalable, performant data backbone for analytics and ML  
 - **dbt** – trusted transformations and feature-ready data models  
 - **Azure Data Factory** – ingestion and orchestration of reliable data pipelines
+
+## 🏅 Licenses & Certifications
+
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** 
+  - **Issued:** October 2025 • **Expires:** October 2027
+  - **Credential Verification:** [Verify via Oracle CertView](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F99037B7EE68CE602865BB8F24198B89C2C4DB7E5A6B073C798591763ECCB05F)
+  - **Core Domains Mastered:**
+    * Large Language Models (LLMs) & Custom Fine-Tuning (LoRA, T5)
+    * Retrieval-Augmented Generation (RAG) Architectures & Vector Databases
+    * LangChain Framework Integration & Orchestration
+    * OCI Generative AI Service Application Development & Deployment
+
