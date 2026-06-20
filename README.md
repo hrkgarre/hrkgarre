@@ -29,7 +29,6 @@ machine learning models can work reliably in production.
 ## 🏅 Licenses & Certifications
 
 - **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
-  -![Oracle](https://shields.io) ![Generative AI](https://shields.io) 
   - **Issued:** October 2025 • **Expires:** October 2027
   - **Credential Verification:** [Verify via Oracle CertView](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F99037B7EE68CE602865BB8F24198B89C2C4DB7E5A6B073C798591763ECCB05F)
   - **Core Domains Mastered:**
